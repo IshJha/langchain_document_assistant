@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain = "*"
+langchain-pinecone = "*"
+langchain-community = "*"
+streamlit = "*"
+langchain-google-genai = "*"
+pinecone-client = "*"
+python-dotenv = "*"
+beautifulsoup4 = "*"
+langchainhub = "*"
+streamlit-chat = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
