@@ -16,7 +16,7 @@ dotenv
 
 **Installation**
 Clone the repository:
-git clone 
+git clone https://github.com/IshJha/langchain_document_assistant.git
 cd documentation-ingestion-bot
 
 **Install the required packages using Pipenv:**
