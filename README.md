@@ -16,7 +16,7 @@ dotenv
 
 **Installation**
 Clone the repository:
-git clone https://github.com/yourusername/documentation-ingestion-bot.git
+git clone 
 cd documentation-ingestion-bot
 
 **Install the required packages using Pipenv:**
